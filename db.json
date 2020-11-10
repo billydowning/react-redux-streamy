@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Dogs",
+      "description": "More dogs",
+      "id": 1
+    },
+    {
+      "title": "Cats",
+      "description": "Lots of cats",
+      "id": 2
+    }
+  ]
 }
